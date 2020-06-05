@@ -1,7 +1,7 @@
-#Construction Safety Using Deep Learning
+# Construction Safety Using Deep Learning
 
 
-#####OSHA demonstrated that eliminating the Fatal Four would save 582 construction workers' lives in America every year. This motivated the development of SafetyNet, an object detection model trained on cloud TPUs that detects whether workers are wearing personal protective equipment.
+OSHA demonstrated that eliminating the Fatal Four would save 582 construction workers' lives in America every year. This motivated the development of SafetyNet, an object detection model trained on cloud TPUs that detects whether workers are wearing personal protective equipment.
 
 
 
